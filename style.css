@@ -3,3 +3,40 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header{
+  text-align: center;
+}
+
+image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+nav{
+  padding : 10px;
+  background-color: grey;
+}
+
+image caption{
+  text-align: center;
+  font-size: small;
+}
+
+text blockquote{
+  width: 800px;
+  text-align: center;
+  text-align: vertical;
+}
+
+div{
+  float: left;
+  background-color: aqua;
+  text-align: center;
+  width: 25%;
+
+}
+
+
